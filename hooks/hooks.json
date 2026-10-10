@@ -1,0 +1,1 @@
+{"hooks":{"PreToolUse":[{"hooks":[{"command":"python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/validate_svg_before_export.py\"","timeout":30,"type":"command"}],"matcher":"Bash"}]}}

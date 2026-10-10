@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"Logo设计专家：品牌简介→多版概念→几何规范→多尺寸导出清单→应用场景自检","name":"lhg-logo","source":"./"}]}
